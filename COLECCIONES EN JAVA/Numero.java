@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-public class Ejercio1 {
+public class Numero {
       public static void main(String[] args) {
         // Declaración de variables y objetos
         ArrayList<Double> numeros = new ArrayList<>();
